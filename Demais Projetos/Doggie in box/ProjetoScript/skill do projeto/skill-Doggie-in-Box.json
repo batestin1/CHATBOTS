@@ -1,0 +1,1386 @@
+{
+  "intents": [
+    {
+      "intent": "cardapio",
+      "examples": [
+        {
+          "text": "Beagle"
+        },
+        {
+          "text": "borde collie"
+        },
+        {
+          "text": "border collie"
+        },
+        {
+          "text": "cachorrinho"
+        },
+        {
+          "text": "cardapio"
+        },
+        {
+          "text": "Dauschund"
+        },
+        {
+          "text": "Deixa eu ver outras opções"
+        },
+        {
+          "text": "linguicinha"
+        },
+        {
+          "text": "me ajuda"
+        },
+        {
+          "text": "menu"
+        },
+        {
+          "text": "Não gostei desse, posso ver outros?"
+        },
+        {
+          "text": "não sei, me ajuda"
+        },
+        {
+          "text": "onde encontro o cardápio?"
+        },
+        {
+          "text": "onde eu vejo o menu?"
+        },
+        {
+          "text": "o que vocês recomendam?"
+        },
+        {
+          "text": "o que voces tem para comer?"
+        },
+        {
+          "text": "pitbull"
+        },
+        {
+          "text": "pode me enviar o menu"
+        },
+        {
+          "text": "poodle"
+        },
+        {
+          "text": "posso voltar?"
+        },
+        {
+          "text": "quais os sabores?"
+        },
+        {
+          "text": "quais sao as opções?"
+        },
+        {
+          "text": "qual o menu?"
+        },
+        {
+          "text": "quero um cachorro quente"
+        },
+        {
+          "text": "quero um hotdog"
+        },
+        {
+          "text": "quero um hotdog?"
+        },
+        {
+          "text": "quero ver o cardapio"
+        },
+        {
+          "text": "quero ver o menu"
+        },
+        {
+          "text": "salsichinha"
+        },
+        {
+          "text": "Schnauzer"
+        },
+        {
+          "text": "to com fome"
+        },
+        {
+          "text": "vira lata"
+        }
+      ],
+      "description": "cardapio"
+    },
+    {
+      "intent": "despedida",
+      "examples": [
+        {
+          "text": "adeus"
+        },
+        {
+          "text": "até daqui a pouco"
+        },
+        {
+          "text": "até logo"
+        },
+        {
+          "text": "até mais"
+        },
+        {
+          "text": "grata"
+        },
+        {
+          "text": "gratidão"
+        },
+        {
+          "text": "grato"
+        },
+        {
+          "text": "muito obrigado"
+        },
+        {
+          "text": "Não, obrigado"
+        },
+        {
+          "text": "Não, tudo bem."
+        },
+        {
+          "text": "obrigado"
+        },
+        {
+          "text": "tamo junto"
+        },
+        {
+          "text": "tchau"
+        }
+      ],
+      "description": "despedida"
+    },
+    {
+      "intent": "endereço",
+      "examples": [
+        {
+          "text": "entreguem em minha casa"
+        },
+        {
+          "text": "entreguem na praça"
+        },
+        {
+          "text": "entreguem na rua"
+        },
+        {
+          "text": "entreguem no trabalho"
+        },
+        {
+          "text": "eu estou em casa"
+        },
+        {
+          "text": "eu estou no trabalho"
+        },
+        {
+          "text": "eu moro na avenida"
+        },
+        {
+          "text": "eu moro na rua"
+        },
+        {
+          "text": "Onde voces entregam?"
+        }
+      ],
+      "description": "endereço"
+    },
+    {
+      "intent": "montar-lanche",
+      "examples": [
+        {
+          "text": "Lata"
+        },
+        {
+          "text": "montar hot dog"
+        },
+        {
+          "text": "montar hot-dog"
+        },
+        {
+          "text": "montar lanche"
+        },
+        {
+          "text": "Vira"
+        },
+        {
+          "text": "viralata"
+        },
+        {
+          "text": "vira lata"
+        }
+      ],
+      "description": "montar lanche"
+    },
+    {
+      "intent": "pedirHotDog",
+      "examples": [
+        {
+          "text": "estou com fome"
+        },
+        {
+          "text": "gostaria de fazer um pedido"
+        },
+        {
+          "text": "iniciar um pedido"
+        },
+        {
+          "text": "posso pedir?"
+        },
+        {
+          "text": "quero com bacon"
+        },
+        {
+          "text": "quero com carne moida"
+        },
+        {
+          "text": "quero com linguiça"
+        },
+        {
+          "text": "quero com nuggets"
+        },
+        {
+          "text": "quero comprar um cachorro quente"
+        },
+        {
+          "text": "quero com tiras de peru"
+        },
+        {
+          "text": "Quero fechar esse!"
+        },
+        {
+          "text": "quero montar o meu lanche"
+        },
+        {
+          "text": "quero o da casa"
+        },
+        {
+          "text": "quero o mais barato"
+        },
+        {
+          "text": "quero o mais completo"
+        },
+        {
+          "text": "quero o mais recheado"
+        },
+        {
+          "text": "quero um beagle"
+        },
+        {
+          "text": "quero um border collier"
+        },
+        {
+          "text": "quero um cachorro quente"
+        },
+        {
+          "text": "quero um dauschund"
+        },
+        {
+          "text": "quero um hotdog"
+        },
+        {
+          "text": "quero um lanche"
+        },
+        {
+          "text": "quero um pitbull"
+        },
+        {
+          "text": "quero um poodle"
+        },
+        {
+          "text": "quero um salsicha"
+        },
+        {
+          "text": "quero um shitzu"
+        },
+        {
+          "text": "quero um shnauzer"
+        },
+        {
+          "text": "quero um vira-lata"
+        },
+        {
+          "text": "Sim"
+        },
+        {
+          "text": "Sim, acho que vou comer esse."
+        },
+        {
+          "text": "Sim, gostaria desse!"
+        }
+      ],
+      "description": "pedido"
+    },
+    {
+      "intent": "Saudação",
+      "examples": [
+        {
+          "text": "beleza?"
+        },
+        {
+          "text": "blz"
+        },
+        {
+          "text": "boa noite"
+        },
+        {
+          "text": "boa tarde"
+        },
+        {
+          "text": "Bom dia"
+        },
+        {
+          "text": "como vai?"
+        },
+        {
+          "text": "e ai"
+        },
+        {
+          "text": "fala"
+        },
+        {
+          "text": "firmeza?"
+        },
+        {
+          "text": "Maycon"
+        },
+        {
+          "text": "oi"
+        },
+        {
+          "text": "ola"
+        },
+        {
+          "text": "prazer em te conhecer"
+        },
+        {
+          "text": "salve salve"
+        },
+        {
+          "text": "tudo bem?"
+        }
+      ],
+      "description": "saudação"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "cardapio",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "cardapio",
+          "synonyms": [
+            "cardapio",
+            "lanches",
+            "menu",
+            "sabores",
+            "tipos"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Vira Lata",
+          "synonyms": [
+            "Cachorro de rua",
+            "Lata",
+            "montar meu recheio",
+            "montar meu sabor",
+            "Vira",
+            "Viralata",
+            "Vira Lata"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "entrega",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "endereço",
+          "synonyms": [
+            "alameda",
+            "avenida",
+            "casa",
+            "cep",
+            "endereço",
+            "n",
+            "nº",
+            "número",
+            "praça",
+            "rua",
+            "trabalho"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "entrega",
+          "synonyms": [
+            "avenida",
+            "casa",
+            "cep",
+            "endereço",
+            "home",
+            "logradouro",
+            "praça",
+            "rua",
+            "trabalho"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "Estilo",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "pote",
+          "synonyms": [
+            "com colher",
+            "em caixa",
+            "engarrafado",
+            "pote",
+            "vidro"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Tradicional",
+          "synonyms": [
+            "comum",
+            "do jeito de sempre",
+            "igual a todos",
+            "normal",
+            "tradicional"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sabor",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Beagle",
+          "synonyms": [
+            "beagle",
+            "carne moida",
+            "geleia de morango",
+            "mais barato",
+            "molho de tomate"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Border Collier",
+          "synonyms": [
+            "amigao",
+            "bd",
+            "border",
+            "border collie",
+            "collie",
+            "geleia de hortelã",
+            "molho de alho poro",
+            "pedaços de pepino",
+            "Tiras de peito de peru"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Dauschund",
+          "synonyms": [
+            "caramelizada",
+            "cebola caramelizada",
+            "cheddar",
+            "dauschund",
+            "geleia de damasco",
+            "linguiça",
+            "linguicinha",
+            "pimentão laranja",
+            "salsichinha",
+            "vinagrete"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Pitbull",
+          "synonyms": [
+            "bacon",
+            "bravo",
+            "cubo de tomate",
+            "forte",
+            "geleia de laranja",
+            "molho barbecue",
+            "muito recheado",
+            "nervoso",
+            "pesado",
+            "pitbul",
+            "pitbull",
+            "pit bull",
+            "violento"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Poodle",
+          "synonyms": [
+            "arteira",
+            "arteiro",
+            "cebola crispies",
+            "cheese",
+            "chique",
+            "cream",
+            "cream cheese",
+            "frances",
+            "geleia de abacaxi",
+            "nuggets",
+            "pimenta",
+            "poodle"
+          ]
+        },
+        {
+          "type": "synonyms",
+          "value": "Shnauzer",
+          "synonyms": [
+            "bigodinho",
+            "geleia de vinho",
+            "molho de shoyo",
+            "pedaços de picles",
+            "raça do bidu",
+            "Shnauzer",
+            "Tiras de frango"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-currency",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Bem-vindo",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Au! au!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 2000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Eu sou o Toddy. Sou assistente virtual do Doggie in Box."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 2000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Qual seu nome?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Bem-vindo",
+      "previous_sibling": "node_1_1604698141476"
+    },
+    {
+      "type": "standard",
+      "title": "Em outros casos",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "$nome, eu não entendi. Pode tentar reformular a frase."
+              },
+              {
+                "text": "$nome, pode reformular sua afirmação? Eu não estou entendendo."
+              },
+              {
+                "text": "Eu não entendi o que você quis dizer $nome, pode repetir?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Em outros casos",
+      "previous_sibling": "node_10_1604684975380",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_3_1604707428565",
+      "context": {
+        "sabor": "@sabor"
+      },
+      "conditions": "@sabor",
+      "event_name": "input",
+      "dialog_node": "handler_10_1604707428598"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_2_1604707519997",
+      "context": {
+        "Estilo": "@Estilo"
+      },
+      "conditions": "@Estilo",
+      "event_name": "input",
+      "dialog_node": "handler_2_1604707520000"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Qual sabor do seu HotDog?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_3_1604707428565",
+      "event_name": "focus",
+      "dialog_node": "handler_6_1604707428598",
+      "previous_sibling": "handler_10_1604707428598"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "Você quer em pote ou no tradicional?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_2_1604707519997",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1604707520000",
+      "previous_sibling": "handler_2_1604707520000"
+    },
+    {
+      "type": "standard",
+      "title": "despedida",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Au... Au.."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Obrigado. Espero ter te ajudado. Volte sempre"
+              },
+              {
+                "text": "Opa! Obrigado. Espero ter te ajudado"
+              },
+              {
+                "text": "Fica com Deus"
+              },
+              {
+                "text": "Muito bem, até a próxima"
+              },
+              {
+                "text": "$nome, até mais!"
+              },
+              {
+                "text": "Até logo $nome e muito obrigado"
+              },
+              {
+                "text": "$nome, volte sempre"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#despedida",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_10_1604684975380",
+      "previous_sibling": "node_1_1604684758973"
+    },
+    {
+      "type": "standard",
+      "title": "Beagle",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "No nosso delicioso Beagle, você vai encontrar:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 2000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Salsicha"
+              },
+              {
+                "text": "Carne Moída"
+              },
+              {
+                "text": "Molho de Tomate"
+              },
+              {
+                "text": "Rodelas de Tomate"
+              },
+              {
+                "text": "Geleia de Morango"
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 2000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Gostou desse?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1604690977472",
+      "conditions": "#cardapio && @sabor:Beagle",
+      "dialog_node": "node_10_1604691633747"
+    },
+    {
+      "type": "standard",
+      "title": "Poodle",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Aquele amigo bagunceiro! Olha só o que ele acompanha:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 2000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Salsicha"
+              },
+              {
+                "text": "Nuggets"
+              },
+              {
+                "text": "Cream Cheese"
+              },
+              {
+                "text": "Cebola Crispies"
+              },
+              {
+                "text": "Geleia de Abacaxi"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 1,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Gostou desse?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1604690977472",
+      "conditions": "#cardapio && @sabor:Poodle",
+      "dialog_node": "node_10_1604692685128",
+      "previous_sibling": "node_4_1604692543926"
+    },
+    {
+      "type": "standard",
+      "title": "Saudação",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá $nome, tudo bem? Eu posso te ajudar?"
+              },
+              {
+                "text": "$nome não sei você, mas me deu uma fome. Quer pedir alguma coisa?"
+              },
+              {
+                "text": "Olá $nome, quer pedir alguma coisa?"
+              },
+              {
+                "text": "Oi $nome, posso te ajudar?"
+              },
+              {
+                "text": "Firmeza? $nome do céu!!! Eu tô com fome e você?"
+              },
+              {
+                "text": "E ai, $nome? Tudo em cima? Vai um cachorro quente ai?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#Saudação",
+      "dialog_node": "node_1_1604684758973",
+      "previous_sibling": "node_5_1604707141755"
+    },
+    {
+      "type": "folder",
+      "title": "cardapio",
+      "conditions": "#cardapio",
+      "dialog_node": "node_1_1604698141476"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Seu pedido deu R$ 15,00. Vai querer troco?"
+              },
+              {
+                "text": "Seu pedido deu R$ 20,00. Vai querer troco?"
+              },
+              {
+                "text": "Seu pedido deu R$ 25,00. Vai querer troco?"
+              },
+              {
+                "text": "Seu pedido deu R$ 30,00. Vai querer troco?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "node_5_1604707141755",
+      "conditions": "true",
+      "dialog_node": "node_2_1604790237156"
+    },
+    {
+      "type": "standard",
+      "output": {
+        "generic": [
+          {
+            "time": 3000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "OK. Levarei troco para R$ $troco"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1604790237156",
+      "context": {
+        "troco": "<? @sys-number ?>"
+      },
+      "conditions": "@sys-number",
+      "dialog_node": "node_2_1604790344227"
+    },
+    {
+      "type": "standard",
+      "title": "Dauschund",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O famoso 'Salsichinha'!!! Vem acompanhado de:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 1,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Salsicha"
+              },
+              {
+                "text": "Linguiça "
+              },
+              {
+                "text": "Vinagrete"
+              },
+              {
+                "text": "Cebola Caramelizada"
+              },
+              {
+                "text": "Cheddar"
+              },
+              {
+                "text": "Geleia de Laranja"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 2000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "E ai, gostou desse?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1604690977472",
+      "conditions": "#cardapio && @sabor:Dauschund",
+      "dialog_node": "node_4_1604692395233",
+      "previous_sibling": "node_8_1604692212005"
+    },
+    {
+      "type": "standard",
+      "title": "Pitbull",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O Pitbull é para aqueles que são fortes... "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 2000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Olha só o que ele acompanha:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 1,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Salsicha"
+              },
+              {
+                "text": "Bacon"
+              },
+              {
+                "text": "Molho Barbecue"
+              },
+              {
+                "text": "Pedaços de Cubo de Tomate"
+              },
+              {
+                "text": "Geleia de Laranja"
+              },
+              {
+                "text": "Gostou?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1604690977472",
+      "conditions": "#cardapio && @sabor:Pitbull",
+      "dialog_node": "node_4_1604692543926",
+      "previous_sibling": "node_4_1604692395233"
+    },
+    {
+      "type": "standard",
+      "title": "Schnauzer",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Esse bigodudo é charmoso demais! Olha só o que ele acompanha:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 2000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Salsicha"
+              },
+              {
+                "text": "Tiras de frango"
+              },
+              {
+                "text": "Molho Shoyo"
+              },
+              {
+                "text": "Pedaços de Picles"
+              },
+              {
+                "text": "Geleia de Vinho"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 1,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Gostou desse?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1604690977472",
+      "conditions": "#cardapio && @sabor:Shnauzer",
+      "dialog_node": "node_4_1604692808569",
+      "previous_sibling": "node_10_1604692685128"
+    },
+    {
+      "type": "frame",
+      "title": "pedir-comida",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hum... Que delicia!"
+              },
+              {
+                "text": "O seu Hot Dog de $sabor, $Estilo vai ficar pronto em 30min. "
+              },
+              {
+                "text": ""
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_2_1604790237156"
+      },
+      "conditions": "#pedirHotDog",
+      "dialog_node": "node_5_1604707141755",
+      "previous_sibling": "Bem-vindo"
+    },
+    {
+      "type": "standard",
+      "title": "nome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Olá $nome, posso te ajudar?"
+              },
+              {
+                "text": "E ai $nome, como posso te ajudar? "
+              },
+              {
+                "text": "Legal. O que deseja para comer  $nome ?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "parent": "Bem-vindo",
+      "context": {
+        "nome": "<? input.text ?>"
+      },
+      "conditions": "true",
+      "dialog_node": "node_8_1604685131041"
+    },
+    {
+      "type": "standard",
+      "title": "cardapio",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Esses são algumas opções de cardápio que temos para você:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "time": 2000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Beagle"
+              },
+              {
+                "text": "Border Collie"
+              },
+              {
+                "text": "Pitbull"
+              },
+              {
+                "text": "Poodle"
+              },
+              {
+                "text": "Schnauzer"
+              },
+              {
+                "text": "Dauschund"
+              },
+              {
+                "text": ""
+              },
+              {
+                "text": "Diga qual quer conhecer?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_1_1604698141476",
+      "context": {},
+      "next_step": {
+        "behavior": "jump_to",
+        "selector": "condition",
+        "dialog_node": "node_10_1604691633747"
+      },
+      "conditions": "#cardapio && @cardapio",
+      "dialog_node": "node_8_1604690977472"
+    },
+    {
+      "type": "standard",
+      "title": "Border Collie",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "O Border Collie é um lanche para quem é amigão! Olha só o que vem nele:"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 2000,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Salsicha"
+              },
+              {
+                "text": "Tiras de Peito de Peru"
+              },
+              {
+                "text": "Molho de Alho Poró"
+              },
+              {
+                "text": "Pedaços de Pepino"
+              },
+              {
+                "text": "Geleia de Hortelã"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "time": 1,
+            "typing": true,
+            "response_type": "pause"
+          },
+          {
+            "values": [
+              {
+                "text": "Gostou desse? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_8_1604690977472",
+      "conditions": "#cardapio && @sabor:(Border Collier)",
+      "dialog_node": "node_8_1604692212005",
+      "previous_sibling": "node_10_1604691633747"
+    },
+    {
+      "type": "slot",
+      "parent": "node_5_1604707141755",
+      "variable": "$Estilo",
+      "dialog_node": "slot_2_1604707519997",
+      "previous_sibling": "slot_3_1604707428565"
+    },
+    {
+      "type": "slot",
+      "parent": "node_5_1604707141755",
+      "variable": "$sabor",
+      "dialog_node": "slot_3_1604707428565",
+      "previous_sibling": "node_2_1604790237156"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Você quis dizer:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "Nenhuma das anteriores"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Você quis dizer:"
+    }
+  },
+  "learning_opt_out": false,
+  "name": "Doggie in Box",
+  "language": "pt-br",
+  "description": "Fast Food"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "doggieinbox",
+  "version": "1.0.0",
+  "description": "Chatbox da Doggie In Box, empresa de fastfood",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Chatbot - Doggie in Box"
+  },
+  "keywords": [
+    "Chatbot",
+    "javascript",
+    "doggieinbox",
+    "fastfood"
+  ],
+  "author": "Maycon Cypriano Batestin",
+  "license": "ISC"
+}
